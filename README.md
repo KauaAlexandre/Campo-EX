@@ -12,4 +12,6 @@
 
 <p></p>
 <h3 align="center">A página perfil.html é uma página que seria como uma demonstração de como seria a página de perfil, essa página pode ser acessada pelo icone de usuario na barra lateral</h3>
+
+<h2>link para o arquivo do google docs: https://docs.google.com/document/d/1ImIzUSeJdzmM7hj0y_AenKvmafWcBY_o6Q38P7gnm_w/edit?usp=sharing</h2>
                                                                                                                    
